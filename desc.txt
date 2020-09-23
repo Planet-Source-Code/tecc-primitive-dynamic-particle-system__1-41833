@@ -1,0 +1,6 @@
+Primitive Dynamic particle system
+
+This particle system will dynamically adapt to the environment you give it, bouncing off boundries and borders. Draw a wall and particles will have to bounce off it or avoid it somehow. Gravity is the dominating force in this one. Must be seen in motion!
+
+Note: all 'vbblack' (&H000000) pixels force the particles to be blocked
+which is how the engine tells where borders are.
